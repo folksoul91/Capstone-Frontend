@@ -1,4 +1,4 @@
-import ProfilePic from "../assets/images/profile1.jpg";
+import ProfilePic from "../../assets/images/profile1.jpg";
 import "./sidebar.css";
 
 const Sidebar = () => {

@@ -1,5 +1,5 @@
 import "./header.css";
-import mainpage from "../assets/images/mainpage.jpg";
+import mainpage from "../../assets/images/mainpage.jpg";
 
 const Header = () => {
   return (

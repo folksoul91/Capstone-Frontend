@@ -1,5 +1,5 @@
-import BodyPic from "../assets/images/travel2.jpg";
-import "./post.css";
+import BodyPic from "../../assets/images/travel2.jpg";
+import "./post.scss";
 
 const Post = () => {
   return (
