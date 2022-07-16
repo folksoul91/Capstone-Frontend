@@ -1,5 +1,5 @@
 import Sidebar from "../../components/sidebar/Sidebar";
-import SinglePost from "../../singlepost/SinglePost";
+import SinglePost from "../../components/singlepost/SinglePost";
 import "./single.scss";
 
 const Single = () => {
