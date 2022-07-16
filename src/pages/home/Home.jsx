@@ -1,12 +1,17 @@
 import "./home.css";
 import Header from "../../header/Header";
+import Sidebar from "../../sidebar/Sidebar";
+import Posts from "../../posts/Posts";
 
 const Home = () => {
   return (
-    <div>
+    <>
       <Header />
-      homepage
-    </div>
+      <div className="home">
+        <Posts />
+        <Sidebar />
+      </div>
+    </>
   );
 };
 
